@@ -1,9 +1,13 @@
 RH Dashboard - Analyse des Ressources Humaines
+
 📌 Présentation du Projet
+
 Ce projet consiste en un tableau de bord analytique complet développé sous Power BI.
+
 Il permet aux responsables RH et aux décideurs de visualiser les indicateurs clés de performance (KPI) de l'entreprise afin d'optimiser la gestion du capital humain.
 
 📊 Fonctionnalités Clés
+
 Le dashboard s'articule autour de plusieurs axes stratégiques :
 
 Analyse des Effectifs : Suivi du nombre total d'employés par département, par genre et par ancienneté.
