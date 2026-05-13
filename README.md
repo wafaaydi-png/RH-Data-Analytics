@@ -1,22 +1,109 @@
-RH Dashboard - Analyse des Ressources Humaines
+# 📊 Dashboard RH | Analyse des Ressources Humaines avec Power BI
 
+## 📌 Présentation du projet
 
-📊 Fonctionnalités Clés
+Ce projet consiste en la création d’un **dashboard interactif RH sous Power BI** permettant d’analyser les principaux indicateurs liés aux ressources humaines : effectifs, absentéisme, productivité et masse salariale.
 
-Le dashboard s'articule autour de plusieurs axes stratégiques :
+L’objectif est de transformer les données RH en **insights clairs et exploitables** pour aider à la prise de décision stratégique.
 
-Analyse des Effectifs : Suivi du nombre total d'employés par département, par genre et par ancienneté.
+---
 
-Suivi de l'Absentéisme : Identification des tendances et des motifs d'absence pour améliorer le bien-être au travail.
+# 📂 Pages du Dashboard
 
-Performance & Évaluation : Mesure de l'efficacité opérationnelle et des résultats des employés.
+## 1️⃣ Vue d’ensemble RH
 
-Recrutement & Formation : Visualisation du pipeline de recrutement et du suivi des plans de formation.
+Cette page offre une vision globale de la situation des ressources humaines de l’entreprise.
 
-🛠️ Technologies Utilisées
+### KPI principaux
 
-Power BI Desktop : Pour la modélisation des données et la création des visuels.
+- Effectif total
+- Employés actifs
+- Nombre de départs
+- Taux de turnover
 
-DAX (Data Analysis Expressions) : Pour la création de mesures et d'indicateurs personnalisés.
+### Analyses disponibles
 
-Power Query : Pour le nettoyage et la transformation des données sources
+- Répartition par genre
+- Répartition par tranche d’âge
+- Distribution des employés par département
+- Évolution des effectifs par année
+- Synthèse annuelle des effectifs
+
+### Objectif
+
+Obtenir rapidement une vue globale sur la structure et l’évolution du personnel.
+
+---
+
+## 2️⃣ Absence et Productivité
+
+Cette page permet d’analyser l’absentéisme et la performance des employés.
+
+### KPI principaux
+
+- Heures d’absence
+- Heures travaillées
+- Productivité
+- Taux d’absence
+
+### Analyses disponibles
+
+- Taux d’absence par mois
+- Performance des départements selon l’absentéisme
+- Analyse de la productivité par poste
+
+### Objectif
+
+Identifier les tendances d’absentéisme et mesurer leur impact sur la performance globale.
+
+---
+
+## 3️⃣ Salaire et Profil Employé
+
+Cette page est dédiée à l’analyse salariale et au profil des employés.
+
+### KPI principaux
+
+- Masse salariale
+- Salaire moyen
+- Salaire maximal
+- Ancienneté moyenne
+- Âge moyen
+
+### Analyses disponibles
+
+- Répartition par type de contrat
+- Classement des salaires les plus élevés
+- Salaire moyen par tranche d’âge
+- Tendance de la masse salariale
+
+### Objectif
+
+Analyser la structure de rémunération et mieux comprendre les profils des employés.
+
+---
+
+# 🛠️ Outils utilisés
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Modélisation de données
+
+---
+
+# Compétences démontrées
+
+- Nettoyage et préparation des données
+- Modélisation de données
+- Création de KPI RH
+- Calculs DAX
+- Visualisation de données
+- Dashboard Design
+- Analyse RH
+
+---
+
+# 🎯 Objectif du projet
+
+Transformer des données RH brutes en tableaux de bord interactifs afin d’améliorer le suivi des performances RH, la gestion des effectifs et la prise de décision.
