@@ -1,106 +1,83 @@
-# 📊 Dashboard RH | Analyse des Ressources Humaines avec Power BI
+📊 Dashboard RH | Analyse des Ressources Humaines avec Power BI
+📌 Présentation du projet
 
-## 📌 Présentation du projet
+Ce projet consiste en la conception d’un dashboard interactif RH sous Power BI permettant d’analyser et de suivre les indicateurs clés liés à la gestion des ressources humaines.
 
-Ce projet consiste en la création d’un **dashboard interactif RH sous Power BI** permettant d’analyser les principaux indicateurs liés aux ressources humaines : effectifs, absentéisme, productivité et masse salariale.
+L’objectif est de transformer les données RH en informations claires, visuelles et exploitables afin d’accompagner les décideurs dans le pilotage stratégique des effectifs, de la performance et de la masse salariale.
 
-L’objectif est de transformer les données RH en **insights clairs et exploitables** pour aider à la prise de décision stratégique.
+📂 Pages du Dashboard
+1️⃣ Vue d’ensemble RH
 
----
+Cette page offre une vision globale de la situation actuelle des ressources humaines de l’entreprise.
 
-# 📂 Pages du Dashboard
+KPI principaux
+Effectif total
+Employés actifs
+Nombre de départs
+Taux de turnover
+Analyses disponibles
+Répartition des employés par genre
+Répartition par tranche d’âge
+Distribution des employés par département
+Évolution des effectifs dans le temps
+Synthèse annuelle des mouvements RH
+Objectif
 
-## 1️⃣ Vue d’ensemble RH
+Obtenir une vue rapide et synthétique de la structure du personnel et de son évolution.
 
-Cette page offre une vision globale de la situation des ressources humaines de l’entreprise.
+2️⃣ Absence et Productivité
 
-### KPI principaux
+Cette page permet d’évaluer l’impact de l’absentéisme sur la performance globale de l’entreprise.
 
-- Effectif total
-- Employés actifs
-- Nombre de départs
-- Taux de turnover
+KPI principaux
+Heures d’absence
+Heures travaillées
+Taux d’absence
+Productivité moyenne
+Analyses disponibles
+Évolution mensuelle du taux d’absence
+Comparaison de l’absentéisme par département
+Analyse de la productivité par poste
+Corrélation entre présence et performance
+Objectif
 
-### Analyses disponibles
+Identifier les tendances liées à l’absentéisme et mesurer leur influence sur la productivité.
 
-- Répartition par genre
-- Répartition par tranche d’âge
-- Distribution des employés par département
-- Évolution des effectifs par année
-- Synthèse annuelle des effectifs
+3️⃣ Salaire et Profil Employé
 
-### Objectif
+Cette page est dédiée à l’analyse salariale et à l’étude des caractéristiques des employés.
 
-Obtenir rapidement une vue globale sur la structure et l’évolution du personnel.
+KPI principaux
+Masse salariale totale
+Salaire moyen
+Salaire maximal
+Ancienneté moyenne
+Âge moyen
+Analyses disponibles
+Répartition des employés par type de contrat
+Classement des salaires les plus élevés
+Salaire moyen par tranche d’âge
+Évolution de la masse salariale
+Objectif
 
----
+Comprendre la structure de rémunération et analyser les profils des collaborateurs.
 
-## 2️⃣ Absence et Productivité
+🛠️ Outils utilisés
+Power BI Desktop
+Power Query
+DAX (Data Analysis Expressions)
+Modélisation de données
+🎯 Résultats attendus
 
-Cette page permet d’analyser l’absentéisme et la performance des employés.
+Ce dashboard permet de :
 
-### KPI principaux
-
-- Heures d’absence
-- Heures travaillées
-- Productivité
-- Taux d’absence
-
-### Analyses disponibles
-
-- Taux d’absence par mois
-- Performance des départements selon l’absentéisme
-- Analyse de la productivité par poste
-
-### Objectif
-
-Identifier les tendances d’absentéisme et mesurer leur impact sur la performance globale.
-
----
-
-## 3️⃣ Salaire et Profil Employé
-
-Cette page est dédiée à l’analyse salariale et au profil des employés.
-
-### KPI principaux
-
-- Masse salariale
-- Salaire moyen
-- Salaire maximal
-- Ancienneté moyenne
-- Âge moyen
-
-### Analyses disponibles
-
-- Répartition par type de contrat
-- Classement des salaires les plus élevés
-- Salaire moyen par tranche d’âge
-- Tendance de la masse salariale
-
-### Objectif
-
-Analyser la structure de rémunération et mieux comprendre les profils des employés.
+Centraliser les indicateurs RH essentiels
+Suivre l’évolution des effectifs et du turnover
+Mesurer l’impact de l’absentéisme sur la performance
+Analyser la structure salariale de l’entreprise
+Faciliter la prise de décision grâce à des visualisations interactives
 
 ---
-
-# 🛠️ Outils utilisés
-
-- Power BI Desktop
-- Power Query
-- DAX
-- Modélisation de données
-
----
-
-# Compétences démontrées
-
-- Nettoyage et préparation des données
-- Modélisation de données
-- Création de KPI RH
-- Calculs DAX
-- Visualisation de données
-- Dashboard Design
-- Analyse RH
 
 ---
 
