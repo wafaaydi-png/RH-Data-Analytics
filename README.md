@@ -15,6 +15,7 @@ L’objectif est de transformer les données RH en informations claires, visuell
 Cette page offre une vision globale de la situation actuelle des ressources humaines de l’entreprise.
 
 KPI principaux
+
 Effectif total
 Employés actifs
 Nombre de départs
@@ -27,6 +28,7 @@ Distribution des employés par département
 Synthèse annuelle des mouvements RH
 Objectif
 
+
 Obtenir une vue rapide et synthétique de la structure du personnel et de son évolution.
 
 
@@ -37,6 +39,7 @@ Cette page permet d’évaluer l’impact de l’absentéisme sur la performance
 
 
 KPI principaux
+
 Heures d’absence
 Heures travaillées
 Taux d’absence
@@ -46,6 +49,7 @@ Analyses disponibles
 Comparaison de l’absentéisme par département
 Analyse de la productivité par poste
 Corrélation entre présence et performance
+
 Objectif
 
 Identifier les tendances liées à l’absentéisme et mesurer leur influence sur la productivité.
@@ -70,6 +74,7 @@ Salaire moyen par tranche d’âge
 Évolution de la masse salariale
 Objectif
 
+
 Comprendre la structure de rémunération et analyser les profils des collaborateurs.
 
 
@@ -79,6 +84,8 @@ Power BI Desktop
 Power Query
 DAX (Data Analysis Expressions)
 Modélisation de données
+
+
 🎯 Résultats attendus
 
 
