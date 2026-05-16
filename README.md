@@ -62,6 +62,7 @@ Cette page est dédiée à l’analyse salariale et à l’étude des caractéri
 
 
 KPI principaux
+
 Masse salariale totale
 Salaire moyen
 Salaire maximal
@@ -81,8 +82,11 @@ Comprendre la structure de rémunération et analyser les profils des collaborat
 🛠️ Outils utilisés
 
 Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Modélisation de données
 
 
@@ -93,9 +97,13 @@ Ce dashboard permet de :
 
 
 Centraliser les indicateurs RH essentiels
+
 Suivre l’évolution des effectifs et du turnover
+
 Mesurer l’impact de l’absentéisme sur la performance
+
 Analyser la structure salariale de l’entreprise
+
 Faciliter la prise de décision grâce à des visualisations interactives
 
 ---
